@@ -1,0 +1,24 @@
+body {
+  background: url("https://i.pinimg.com/originals/25/48/ab/2548ab1b14d4049dbf94e230f3acf88a.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#container {
+  width: 800px;
+  height: 20vh;
+  background-color: cadetblue;
+
+  margin: 0vh 28vw 0 28vw;
+  text-align: center;
+}
+button {
+  position: relative;
+  top: 90%;
+  width: 10vw;
+  height: 7vh;
+}
+#quotes {
+  position: relative;
+  top: 30%;
+  font-weight: bolder;
+}
